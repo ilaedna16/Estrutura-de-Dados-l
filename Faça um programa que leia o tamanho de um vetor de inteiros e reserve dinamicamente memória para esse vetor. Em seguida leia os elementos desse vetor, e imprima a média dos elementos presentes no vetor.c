@@ -2,8 +2,7 @@
 #include <stdlib.h>
 #include <locale.h>
 //Faça um programa que leia o tamanho de um vetor de inteiros e reserve dinamicamente memória para esse vetor.
-//Em seguida leia os elementos desse vetor, imprima o vetor lido, 
-//e mostre quantos números pares e ímpares estão presentes no vetor
+//Em seguida leia os elementos desse vetor, imprima a média dos elementos presentes no vetor.
 
 int main () { 
         setlocale (LC_ALL, "portuese"); 
