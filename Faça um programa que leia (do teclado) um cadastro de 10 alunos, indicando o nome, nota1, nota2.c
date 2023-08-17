@@ -28,7 +28,7 @@
                       fprintf(arquivo, "media: %.2f\n\n", alunos[i].media);
                   } 
                     fclose(arquivo); 
-                    printf ("Dados dos alunos escritos no arquivo xom sucesso!\n"); 
+                    printf ("Dados dos alunos escritos no arquivo com sucesso!\n"); 
               } else { 
                   printf ("Erro ao criar o arquivo.\n"); 
               } 
