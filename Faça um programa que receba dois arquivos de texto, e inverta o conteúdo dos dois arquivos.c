@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//Faça um programa que receba dois arquivos de texto, e inverta o conteúdo dos dois
+//arquivos.
 
 int main()
 {
