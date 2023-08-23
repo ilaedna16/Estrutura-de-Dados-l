@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//Escreva aum programa que receba os dados de três estudanteds e imprima na tela o nome dos estudantes que foram aprovados, 
+//Escreva um programa que receba os dados de três estudanteds e imprima na tela o nome dos estudantes que foram aprovados, 
 //assim como sua média final. Cada estudante possui um nome e três notas, referente a cada unidade da disciplina,
 //a leitura dos dados deve ser feita de um arquivo de texto. 
 
