@@ -10,7 +10,7 @@ int main()
     char nome[50]; 
     a= fopen ("a.txt", "r");
     c= fopen ("c.txt", "w"); 
-    while (fscanf (a, "%c", nome)!= EOF) { 
+    while (fscanf (a, "%c",&nome)!= EOF) { 
         fprintf (c, "%c", nome); 
     } 
         fclose (a); 
